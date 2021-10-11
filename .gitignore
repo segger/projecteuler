@@ -3,6 +3,11 @@
 .settings/
 bin/
 
+# intellj
+out/
+.idea/
+*.iml
+
 *.class
 *.jar
 *.war
